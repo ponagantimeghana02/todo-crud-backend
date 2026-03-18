@@ -1,0 +1,20 @@
+{
+  "name": "todo-crud-backend",
+  "version": "1.0.0",
+  "description": "CRUD Operations on User specific Todos",
+  "homepage": "https://github.com/ponagantimeghana02/todo-crud-backend#readme",
+  "bugs": {
+    "url": "https://github.com/ponagantimeghana02/todo-crud-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponagantimeghana02/todo-crud-backend.git"
+  },
+  "license": "ISC",
+  "author": "Meghana Ponaganti",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
